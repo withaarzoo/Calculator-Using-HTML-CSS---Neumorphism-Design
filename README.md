@@ -11,3 +11,5 @@ In this project, you are going to develop a calculator that will have the follow
 * The calculator will display Infinity if you try to divide any number by zero.
 * It will not display any result in case of invalid expression. For example, 5++9 will not display anything.
 * Clear screen feature to clear the display screen anytime you want.
+
+![preview img](/preview.png)
